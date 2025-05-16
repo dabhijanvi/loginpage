@@ -1,5 +1,6 @@
 
 
+
 <html>
 <head> 
     # <center>loginpage</center>
@@ -12,12 +13,21 @@
                 <form action="">
              <h2><center>login</center></h2>
                   <input type="text" required>
-                  <label for="">username</label> </div>
+                  <label for="">username</label> 
+            </div>
           </div>
+          <div class="input-group">
+          <input type="password" required>
+           <label for="">password</label> </div>
+              </div>    
+
+              
+        
     
                    
-              
+         </form>     
   </body>
+  
 
 </html>
 

@@ -1,7 +1,8 @@
 
-# <centre>loginpage</centre>
+
 <html>
-<head>
+<head> 
+# <centre>loginpage</centre>
 
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>

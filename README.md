@@ -11,12 +11,12 @@
                 <form action="">
                    <h2> login</h2>
                   <input type="text" required>
-                  <label for="">username</label>
-                  </form>
-                 
-              </div>
+                  <label for="">username</label> </div>
           </div>
     
+                  </form>
+                 
+              
   </body>
 </html>
 

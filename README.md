@@ -2,11 +2,11 @@
 
 <html>
 <head> 
+    # <center>loginpage</center>
 
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-  <body> # <centre>loginpage</centre>
-
+  <body> 
           <div class="wrapper">
               <div class="from-wrapper sign-in" >
                 <form action="">

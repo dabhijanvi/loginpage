@@ -10,7 +10,7 @@
           <div class="wrapper">
               <div class="from-wrapper sign-in" >
                 <form action="">
-                   <h2> login</h2>
+             <h2><center>login</center></h2>
                   <input type="text" required>
                   <label for="">username</label> </div>
           </div>
